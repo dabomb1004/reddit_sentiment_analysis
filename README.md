@@ -2,7 +2,7 @@
 cleaning reddit comments and analyzing them
 The overall order is 
 
-#first getting the raw data from reddit
+#first getting the raw data from reddit - events were: US electionn 2016, Brexit ref 2016, Facebook Cambridge Analytica 2018
 
 1. pushshift - getting reddit threads for specific topic
 2. pushshift - getting comments for each thread
