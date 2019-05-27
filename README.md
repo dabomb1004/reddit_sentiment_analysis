@@ -21,4 +21,8 @@ The overall order is
 
 6. following medium tutorial - text processing - analyzing
 
+#there is a final text analysis .py file that I used to try and play around with the data. I followed a tutorial and cleaned the
+#words using their approach and created a word cloud at the end. 
+
+7. text analysis 
 
