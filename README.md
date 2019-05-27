@@ -8,6 +8,7 @@ The overall order is
 3. filtering
 #finally using google cloud platform to get sentiment score for each comment
 4. gcp sentiment
+
 #on the side I did a different apporach to sentiment analysis using textblob instead of gcp sentiment
 5. following medium tutorial - text processing - 1) cleaning text
 6. following medium tutorial - text processing - 1) analyzing
