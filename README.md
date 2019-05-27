@@ -10,7 +10,9 @@ The overall order is
 4. gcp sentiment
 
 #on the side I did a different apporach to sentiment analysis using textblob instead of gcp sentiment
-5. following medium tutorial - text processing - 1) cleaning text
-6. following medium tutorial - text processing - 1) analyzing
+
+5. following medium tutorial - text processing -cleaning text
+
+6. following medium tutorial - text processing - analyzing
 
 
